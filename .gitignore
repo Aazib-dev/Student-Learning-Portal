@@ -9,3 +9,6 @@ captures/
 .externalNativeBuild
 .cxx
 local.properties
+
+.pdf_img_cache/
+pdf_preview/
