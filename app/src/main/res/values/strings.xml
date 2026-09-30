@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Learning Portal</string>
+    <string name="title_student_learning_portal">Student Learning Portal</string>
+    <string name="title_create_account">Create Account</string>
+    <string name="title_login">Student Login</string>
+
+    <!-- Field Hints -->
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_student_id">Student ID</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_date_of_admission">Select Date of Admission</string>
+
+    <!-- Labels -->
+    <string name="label_department">Department</string>
+    <string name="label_semester">Semester</string>
+    <string name="label_date_of_admission">Date of Admission</string>
+
+    <!-- Buttons & Links -->
+    <string name="btn_create_account">Create Account</string>
+    <string name="btn_login">Login</string>
+    <string name="link_already_have_account">Already have an account? Login</string>
+    <string name="link_dont_have_account">Don\'t have an account? Sign Up</string>
+
+    <!-- Validation Messages -->
+    <string name="msg_empty_fields">Please fill all fields</string>
+    <string name="msg_select_department">Please select department</string>
+    <string name="msg_select_semester">Please select semester</string>
+    <string name="msg_passwords_mismatch">Passwords do not match</string>
+    <string name="msg_account_created">Account Created Successfully</string>
+    <string name="msg_login_empty_fields">Please enter Student ID and Password</string>
+    <string name="msg_login_success">Login Successful</string>
+
+    <!-- Welcome Message -->
+    <string name="welcome_student_name">Welcome, %1$s!</string>
+    <string name="welcome_default">Welcome to Student Learning Portal!</string>
+
+    <!-- Department Spinner Options -->
+    <string-array name="departments_array">
+        <item>Select Department</item>
+        <item>Computer Science</item>
+        <item>Software Engineering</item>
+        <item>Information Technology</item>
+        <item>Artificial Intelligence</item>
+    </string-array>
+
+    <!-- Semester Spinner Options -->
+    <string-array name="semesters_array">
+        <item>Select Semester</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+    </string-array>
+</resources>
